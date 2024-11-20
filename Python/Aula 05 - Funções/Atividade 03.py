@@ -20,10 +20,3 @@ response = media_final_arredondada
 print(f'A média do aluno é: {response:.2f}' , end=' ')
 print(f'A média final do aluno é: {round(media_final_arredondada, 2)}')
 print('\033[32mAPROVADO!\033[m' if response >= 7 else '\033[31mREPROVADO!\033[m')
-
-def somarMuitos(*medias):
-    valortotal = 0    
-
-    for numero in medias:
-        valortotal += numero
-    print(medias, valortotal)
