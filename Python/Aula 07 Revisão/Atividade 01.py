@@ -1,3 +1,7 @@
+from os import system as sy
+import time
+sy('cls')
+
 def calcular_soma(a, b):
     return a + b
 
@@ -27,15 +31,19 @@ def main():
     if operacao == '1':
         resultado = calcular_soma(num1, num2)
         print(f'Resultado da soma: {resultado}')
+    
     elif operacao == '2':
         resultado = calcular_subtracao(num1, num2)
         print(f'Resultado da subtração: {resultado}')
+    
     elif operacao == '3':
         resultado = calcular_multiplicacao(num1, num2)
         print(f'Resultado da multiplicação: {resultado}')
+    
     elif operacao == '4':
         resultado = calcular_divisao(num1, num2)
         print(f'Resultado da divisão: {resultado}')
+    
     else:
         print("Operação inválida!")
 

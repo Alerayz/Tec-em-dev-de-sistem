@@ -17,7 +17,7 @@ def main():
     contatos = {}
 
     while True:
-        nome = input("Digite o nome do contato (ou '0' para encerrar): ")
+        nome = input("Digite o nome do contato (ou '0' para finalizar): ")
 
         if nome.lower() == "0":
             break

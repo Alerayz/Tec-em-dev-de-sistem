@@ -2,7 +2,6 @@ from os import system as sy
 import time
 sy('cls')
 
-# Função para armazenar informações do produto
 def armazenar_informacoes_produto():
     
     produto = {}
