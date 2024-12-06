@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "Alexandre",
+        "notas": [
+            7.0,
+            7.5,
+            6.5
+        ],
+        "media": 7.0,
+        "aprovado": true
+    },
+    {
+        "nome": "Mateus",
+        "notas": [
+            9.0,
+            8.5,
+            7.0
+        ],
+        "media": 8.16,
+        "aprovado": true
+    },
+    {
+        "nome": "Jo\u00e3o",
+        "notas": [
+            5.0,
+            4.5,
+            3.0
+        ],
+        "media": 4.17,
+        "aprovado": false
+    },
+    {
+        "nome": "Alexandre",
+        "notas": [
+            7.0,
+            7.5,
+            6.5
+        ],
+        "media": 7.0,
+        "aprovado": true
+    },
+    {
+        "nome": "Mateus",
+        "notas": [
+            9.0,
+            8.5,
+            7.0
+        ],
+        "media": 8.166666666666666,
+        "aprovado": true
+    },
+    {
+        "nome": "Jo\u00e3o",
+        "notas": [
+            5.0,
+            4.5,
+            3.0
+        ],
+        "media": 4.166666666666667,
+        "aprovado": false
+    },
+    {
+        "nome": "Alexandre",
+        "notas": [
+            7.0,
+            7.5,
+            6.5
+        ],
+        "media": 7.0,
+        "aprovado": true
+    },
+    {
+        "nome": "Mateus",
+        "notas": [
+            9.0,
+            8.5,
+            7.0
+        ],
+        "media": 8.166666666666666,
+        "aprovado": true
+    },
+    {
+        "nome": "Jo\u00e3o",
+        "notas": [
+            5.0,
+            4.5,
+            3.0
+        ],
+        "media": 4.166666666666667,
+        "aprovado": false
+    }
+]
