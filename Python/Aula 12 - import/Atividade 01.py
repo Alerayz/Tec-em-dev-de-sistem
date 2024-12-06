@@ -1,4 +1,8 @@
-# import time
+from os import system as sy
+import time
+sy('cls')
+
+import time
 from time import sleep as timer
 
 segundos = int(input('Quantos segundos tem o timer: '))

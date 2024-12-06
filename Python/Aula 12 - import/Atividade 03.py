@@ -1,3 +1,7 @@
+from os import system as sy
+import time
+sy('cls')
+
 import calendar
 from datetime import datetime
 
